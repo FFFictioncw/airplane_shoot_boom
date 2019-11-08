@@ -21,11 +21,11 @@
 ## 图站  
 1. **P站：** 打开R18，就是一个新天地  
 - [Pixiv](https://www.pixiv.net/)  [Pixiv客户端下载](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/pixiv_v5.0.167.apk)  [Pixiv第三方客户端下载](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/PixEz_v1.2.0%20X.apk)  
-2. **Danbooru**  
+2. **Danbooru：**  
 - [Danbooru](https://danbooru.donmai.us/)  
-3. **Geibooru**  
+3. **Geibooru：**  
 - [Gelbooru](https://gelbooru.com/)  
-4. **Yandre**  
+4. **Yandre：**  
 - [Yandre](https://yande.re/)  
 5. **K站：** 有了K站，再也不用担心找不到壁纸啦  
 - [konachan](http://konachan.com/)  
@@ -36,15 +36,15 @@
 8. **桃色虹画像：** 没什么好说的，满天坠的小黄图  
 - [桃色虹画像](http://momoniji.com/)  
 ## 博客  
-1. **琉璃神社**  
+1. **琉璃神社：**  
 - [hacg](https://www.hacg.me/)  
 2. **绅士仓库：** 右边友情链接的一堆网站才是重点  
 - [绅士仓库](https://cangku.moe/)  
-3. **灵梦御所**  
+3. **灵梦御所：**  
 - [灵梦御所](https://blog.reimu.net/)  
-4. **猫之仓库**  
+4. **猫之仓库：**  
 - [猫の仓库](https://www.catacg.net/)  
-5. **MyGalgame**  
+5. **MyGalgame：**  
 - [MyGalgame](https://beats0.github.io/www.mygalgame.com/)  
 - [忧郁的loli](https://www.mmgal.com/)  
 6. **hentai4daily：** 体验不怎么样，很多链接是网赚网盘，其实这个站有的其他站也能找到  
@@ -60,7 +60,7 @@
 ## 攻略/补丁  
 1. **2DFan：** galgame 介绍、补丁、攻略  
 - [2DFan](https://www.2dfan.com/)  
-2. **誠也の部屋**  
+2. **誠也の部屋：**  
 - [誠也の部屋](http://seiya-saiga.com/)  
 ## 在线视频  
 1. **FC2 Video：** 名站，无论是三次元还是二次元都有不少很棒的视频  
@@ -72,15 +72,15 @@
 4. **vimeo：** 原以为vimeo是个很正经的网站，不过一搜MMD好像不少R18的样子  
 - [vimeo](https://vimeo.com/)  
 ## APP  
-1. **AndWobble** 气泡抖动壁纸制作，更多功能自行开发 ~~可以制作乳摇壁纸~~  
+1. **AndWobble：** 气泡抖动壁纸制作，更多功能自行开发 ~~可以制作乳摇壁纸~~  
 - [AndWobble](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/AndWobble_v2.8.13.apk)  
-2. **EhViewer** e-hentai 站的客户端，界面简洁好用，可登陆里站  
+2. **EhViewer：** e-hentai 站的客户端，界面简洁好用，可登陆里站  
 - [EhViewer](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/EhViewer-1.7.3.apk)  
-3. **flexbooru** 图站客户端，可添加多个源支持Danbooru类、Gelbooru类和其它类
+3. **flexbooru：** 图站客户端，可添加多个源支持Danbooru类、Gelbooru类和其它类
 - [flexbooru](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/flexbooru_1.1.10.c871.apk)  
-4. **shadowsocks** 富强、民主、文明、和谐;自由、平等、公正、法治;爱国、敬业、诚信、友善。~~翻墙软件~~    
+4. **shadowsocks：** 富强、民主、文明、和谐;自由、平等、公正、法治;爱国、敬业、诚信、友善。~~翻墙软件~~    
 - [shadowsocks-android](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/shadowsocksr-android-3.5.3.apk)  
 - [shadowsocks-windows](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/ShadowsocksR-win-4.9.2.zip)  
-5. **Termux** 内建 apt 包管理器的终端，可以安装arm64的包。clang,python,git,etc...  
+5. **Termux：** 内建 apt 包管理器的终端，可以安装arm64的包。clang,python,git,etc...  
 - [Termux](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/termux/com.termux_77.apk)  
 - [Termux-api](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/termux/com.termux.api_38.apk)  
