@@ -1,4 +1,4 @@
-# ACG资源站  
+# ACG资源  
 ## 种子  
 1. **NYAA：** 全球最大的亚洲动漫站，分表站和里站，表站正经向，里站绅士向。  
 - [表站](https://nyaa.si/)  - [里站](https://sukebei.nyaa.si/)  
