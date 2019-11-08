@@ -1,2 +1,2 @@
 ## BFDZ  
-https://www.bfdz.ink/
+[BFDZ](https://www.bfdz.ink/)
