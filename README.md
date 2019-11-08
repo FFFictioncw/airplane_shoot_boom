@@ -6,7 +6,7 @@
 - [AniRena](https://www.anirena.com/)  
 3. **Tokyo Toshokan：** 东京图书馆，专注日本资源  
 - [Tokyo Toshokan](https://www.tokyotosho.info/)  
-4. **Mteam：** 玩 PT 的应该都知道，馒头的特色  
+4. **Mteam：** 玩PT的应该都知道，馒头的特色  
 - [Mteam](https://tp.m-team.cc/)  
 ## 本子  
 1. **E站：** 里站有表站搜不到的萝莉和重口  
@@ -16,20 +16,26 @@
 - [南+](https://www.south-plus.net/)  
 ## 图站  
 1. **P站：** 打开R18，就是一个新天地  
-- [Pixiv](https://www.pixiv.net/)  [Pixiv客户端下载]()  
-2. **K站：** 有了K站，再也不用担心找不到壁纸啦  
+- [Pixiv](https://www.pixiv.net/)  [Pixiv客户端下载](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/pixiv_v5.0.167.apk)  [Pixiv第三方客户端下载](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/PixEz_v1.2.0%20X.apk)  
+2. **Danbooru**  
+- [Danbooru](https://danbooru.donmai.us/)  
+3. **Geibooru**  
+- [Gelbooru](https://gelbooru.com/)  
+4. **Yandre**  
+- [Yandre](https://yandre.re/)  
+5. **K站：** 有了K站，再也不用担心找不到壁纸啦  
 - [konachan](http://konachan.com/)  
-3. **Multi-service image search：** 一个图片搜索站  
+6. **Multi-service image search：** 一个图片搜索站  
 - [Multi-service image search](http://iqdb.org/)  
-4. **Sankaku Complex：** chan是二次元，idol是三次元  
+7. **Sankaku Complex：** chan是二次元，idol是三次元  
 - [Sankaku Complex](https://www.sankakucomplex.com/)  
 - [chan](https://chan.sankakucomplex.com/)  
 - [idol](https://idol.sankakucomplex.com/)  
-5. **nijie：** 需要注册，感觉是想要做成一个只有R18的Pixiv的样子  
+8. **nijie：** 需要注册，感觉是想要做成一个只有R18的Pixiv的样子  
 - [nijie](http://nijie.info/)  
-6. **桃色虹画像：** 没什么好说的，满天坠的小黄图  
+9. **桃色虹画像：** 没什么好说的，满天坠的小黄图  
 - [桃色虹画像](http://momoniji.com/)  
-7. **绝对领域：** 擦边向三次元福利  
+10. **绝对领域：** 擦边向三次元福利  
 - [绝对领域](http://www.jdlingyu.fun/)  
 ## 博客  
 1. **琉璃神社**  
@@ -72,3 +78,6 @@
 - [Pronhub](https://www.pornhub.com/)  
 4. **vimeo：** 原以为vimeo是个很正经的网站，不过一搜MMD好像不少R18的样子  
 - [vimeo](https://vimeo.com/)  
+## APP  
+1. **AndWobble** 气泡抖动壁纸制作，更多功能自行开发 ~~可以制作乳摇壁纸~~  
+- [AndWobble](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/apk_files/AndWobble_v2.8.13.apk)  
