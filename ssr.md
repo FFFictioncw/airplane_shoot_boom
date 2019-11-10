@@ -1,1 +1,1 @@
-[远观]()
+[远观](https://github.com/feizhaidontlikekuaileshui/airplane_shoot_boom/raw/master/yuanguan.txt)
